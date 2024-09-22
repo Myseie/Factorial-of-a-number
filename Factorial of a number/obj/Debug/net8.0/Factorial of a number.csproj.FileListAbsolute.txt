@@ -1,0 +1,14 @@
+D:\Programmering\Programmering\Factorial of a number\bin\Debug\net8.0\Factorial of a number.exe
+D:\Programmering\Programmering\Factorial of a number\bin\Debug\net8.0\Factorial of a number.deps.json
+D:\Programmering\Programmering\Factorial of a number\bin\Debug\net8.0\Factorial of a number.runtimeconfig.json
+D:\Programmering\Programmering\Factorial of a number\bin\Debug\net8.0\Factorial of a number.dll
+D:\Programmering\Programmering\Factorial of a number\bin\Debug\net8.0\Factorial of a number.pdb
+D:\Programmering\Programmering\Factorial of a number\obj\Debug\net8.0\Factorial of a number.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmering\Programmering\Factorial of a number\obj\Debug\net8.0\Factorial of a number.AssemblyInfoInputs.cache
+D:\Programmering\Programmering\Factorial of a number\obj\Debug\net8.0\Factorial of a number.AssemblyInfo.cs
+D:\Programmering\Programmering\Factorial of a number\obj\Debug\net8.0\Factorial of a number.csproj.CoreCompileInputs.cache
+D:\Programmering\Programmering\Factorial of a number\obj\Debug\net8.0\Factorial of a number.dll
+D:\Programmering\Programmering\Factorial of a number\obj\Debug\net8.0\refint\Factorial of a number.dll
+D:\Programmering\Programmering\Factorial of a number\obj\Debug\net8.0\Factorial of a number.pdb
+D:\Programmering\Programmering\Factorial of a number\obj\Debug\net8.0\Factorial of a number.genruntimeconfig.cache
+D:\Programmering\Programmering\Factorial of a number\obj\Debug\net8.0\ref\Factorial of a number.dll
